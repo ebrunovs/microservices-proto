@@ -2,7 +2,7 @@
 GITHUB_USERNAME=ebrunovs
 GITHUB_EMAIL=brunovs.eneas@gmail.com
 
-SERVICE_NAME=payment
+SERVICE_NAME=shipping
 RELEASE_VERSION=v1.2.3
 
 # Adiciona o protoc ao PATH (instalado via winget)
